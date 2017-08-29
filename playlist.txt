@@ -1,0 +1,224 @@
+GET /youtube/v3/playlists?part=snippet&mine=true HTTP/1.1
+Host: www.googleapis.com
+Content-length: 0
+Authorization: Bearer ya29.GlyuBNAsF8aOXDEsjbefSsWfMgg5v8vas4h3mPtmoa7CAc2IkGdPLSJqaFZiyiZzAd_NDjbX40xVwiiWsBZ9LswfrVrVMB5_Vi_X_VzBAoVZLteIfqu0vKjFEh5nJg
+
+HTTP/1.1 200 OK
+Content-length: 5433
+X-xss-protection: 1; mode=block
+Content-location: https://www.googleapis.com/youtube/v3/playlists?part=snippet&mine=true
+X-content-type-options: nosniff
+Transfer-encoding: chunked
+Expires: Mon, 21 Aug 2017 18:28:36 GMT
+Vary: Origin, X-Origin
+Server: GSE
+Etag: "m2yskBQFythfE4irbTIeOgYYfBU/7ywCfaE2Mw6f4Ws4ZLNL4sGGdR4"
+Cache-control: private, max-age=0, must-revalidate, no-transform
+Date: Mon, 21 Aug 2017 18:28:36 GMT
+X-frame-options: SAMEORIGIN
+Alt-svc: quic=":443"; ma=2592000; v="39,38,37,35"
+Content-type: application/json; charset=UTF-8
+-content-encoding: gzip
+{
+  "nextPageToken": "CAUQAA", 
+  "items": [
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg", 
+            "width": 120, 
+            "height": 90
+          }, 
+          "high": {
+            "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg", 
+            "width": 480, 
+            "height": 360
+          }, 
+          "medium": {
+            "url": "http://s.ytimg.com/yts/img/no_thumbnail-vfl4t3-4R.jpg", 
+            "width": 320, 
+            "height": 180
+          }
+        }, 
+        "title": "Funniest Videos", 
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g", 
+        "publishedAt": "2016-04-30T16:20:20.000Z", 
+        "channelTitle": "Britt's Space", 
+        "localized": {
+          "description": "", 
+          "title": "Funniest Videos"
+        }, 
+        "description": ""
+      }, 
+      "kind": "youtube#playlist", 
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/PNoE4i1e-SVZqNPrjRcGK1vWJdY\"", 
+      "id": "PLe7PhV2Qn0kt4R3LbqawBz6DwkW6cHnqX"
+    }, 
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBemRH69Sok/default.jpg", 
+            "width": 120, 
+            "height": 90
+          }, 
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBemRH69Sok/hqdefault.jpg", 
+            "width": 480, 
+            "height": 360
+          }, 
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBemRH69Sok/mqdefault.jpg", 
+            "width": 320, 
+            "height": 180
+          }, 
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBemRH69Sok/sddefault.jpg", 
+            "width": 640, 
+            "height": 480
+          }
+        }, 
+        "title": "Awesome Branded Content", 
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g", 
+        "publishedAt": "2016-04-30T16:11:15.000Z", 
+        "channelTitle": "Britt's Space", 
+        "localized": {
+          "description": "", 
+          "title": "Awesome Branded Content"
+        }, 
+        "description": ""
+      }, 
+      "kind": "youtube#playlist", 
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ENGwsYjbM6j9sJfxG25JAeZUZl4\"", 
+      "id": "PLe7PhV2Qn0ksUVcO24X2CSQJiXGWThmGP"
+    }, 
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TA0su5jk-wk/default.jpg", 
+            "width": 120, 
+            "height": 90
+          }, 
+          "high": {
+            "url": "https://i.ytimg.com/vi/TA0su5jk-wk/hqdefault.jpg", 
+            "width": 480, 
+            "height": 360
+          }, 
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TA0su5jk-wk/mqdefault.jpg", 
+            "width": 320, 
+            "height": 180
+          }, 
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TA0su5jk-wk/sddefault.jpg", 
+            "width": 640, 
+            "height": 480
+          }
+        }, 
+        "title": "Most Viewed Videos", 
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g", 
+        "publishedAt": "2016-04-30T16:09:35.000Z", 
+        "channelTitle": "Britt's Space", 
+        "localized": {
+          "description": "", 
+          "title": "Most Viewed Videos"
+        }, 
+        "description": ""
+      }, 
+      "kind": "youtube#playlist", 
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/eifEkvs6DNIKsw_VR63Edg4nWUo\"", 
+      "id": "PLe7PhV2Qn0ktQWdgOuBiIncITU8sQzEZ4"
+    }, 
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X_dGEWSwM2E/default.jpg", 
+            "width": 120, 
+            "height": 90
+          }, 
+          "high": {
+            "url": "https://i.ytimg.com/vi/X_dGEWSwM2E/hqdefault.jpg", 
+            "width": 480, 
+            "height": 360
+          }, 
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X_dGEWSwM2E/mqdefault.jpg", 
+            "width": 320, 
+            "height": 180
+          }, 
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X_dGEWSwM2E/maxresdefault.jpg", 
+            "width": 1280, 
+            "height": 720
+          }, 
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X_dGEWSwM2E/sddefault.jpg", 
+            "width": 640, 
+            "height": 480
+          }
+        }, 
+        "title": "Kai's Trucks", 
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g", 
+        "publishedAt": "2016-03-01T17:23:37.000Z", 
+        "channelTitle": "Britt's Space", 
+        "localized": {
+          "description": "", 
+          "title": "Kai's Trucks"
+        }, 
+        "description": ""
+      }, 
+      "kind": "youtube#playlist", 
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/mz1Eb6mahFHxtiZYgD2RFJoQgmA\"", 
+      "id": "PLe7PhV2Qn0kuHBUoR8vkHx2OsyZajwloc"
+    }, 
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q889kOcUwVI/default.jpg", 
+            "width": 120, 
+            "height": 90
+          }, 
+          "high": {
+            "url": "https://i.ytimg.com/vi/q889kOcUwVI/hqdefault.jpg", 
+            "width": 480, 
+            "height": 360
+          }, 
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q889kOcUwVI/mqdefault.jpg", 
+            "width": 320, 
+            "height": 180
+          }, 
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q889kOcUwVI/sddefault.jpg", 
+            "width": 640, 
+            "height": 480
+          }
+        }, 
+        "title": "Listerine Ad Series", 
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g", 
+        "publishedAt": "2014-10-16T17:42:38.000Z", 
+        "channelTitle": "Britt's Space", 
+        "localized": {
+          "description": "We partnered up with Listerine to create a series showcasing how Listerine champions Healthy Habit Heroes.", 
+          "title": "Listerine Ad Series"
+        }, 
+        "description": "We partnered up with Listerine to create a series showcasing how Listerine champions Healthy Habit Heroes."
+      }, 
+      "kind": "youtube#playlist", 
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/H6z89zY1pe_dfg_4_RGuNROJdac\"", 
+      "id": "PLe7PhV2Qn0ktWqNDaNHyJ98BelE8FPu0O"
+    }
+  ], 
+  "kind": "youtube#playlistListResponse", 
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7ywCfaE2Mw6f4Ws4ZLNL4sGGdR4\"", 
+  "pageInfo": {
+    "resultsPerPage": 5, 
+    "totalResults": 16
+  }
+}
+
+

@@ -1,0 +1,160 @@
+* Connection #0 to host www.googleapis.com left intact
+*   Trying 172.217.9.234...
+* TCP_NODELAY set
+* Connected to www.googleapis.com (172.217.9.234) port 443 (#0)
+* TLS 1.2 connection using TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+* Server certificate: *.googleapis.com
+* Server certificate: Google Internet Authority G2
+* Server certificate: GeoTrust Global CA
+> GET /youtube/v3/channels/?mine=true&part=snippet%2CcontentDetails%2Cstatistics%2Clocalizations%2Cstatus%2CbrandingSettings%2CauditDetails HTTP/1.1
+> Host: www.googleapis.com
+> User-Agent: curl/7.54.0
+> Accept: */*
+> Authorization: Bearer ya29.GluvBGZsSKRif6S2yXLB41wvnyf8ergyAIsRfWx_O4EURLlSmHmw8KktWOZgVRKftjhmKzmwBs0RVMlxxmu0yiBXMb9I9Rb7q3V5ZGYDMc_BeBoKVnz8lvtj86_g
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Expires: Tue, 22 Aug 2017 16:44:49 GMT
+Expires: Tue, 22 Aug 2017 16:44:49 GMT
+< Date: Tue, 22 Aug 2017 16:44:49 GMT
+Date: Tue, 22 Aug 2017 16:44:49 GMT
+< Cache-Control: private, max-age=0, must-revalidate, no-transform
+Cache-Control: private, max-age=0, must-revalidate, no-transform
+< ETag: "m2yskBQFythfE4irbTIeOgYYfBU/bJP7f0xKgJbs-qZ2YmchyoU9ZIw"
+ETag: "m2yskBQFythfE4irbTIeOgYYfBU/bJP7f0xKgJbs-qZ2YmchyoU9ZIw"
+< Vary: Origin
+Vary: Origin
+< Vary: X-Origin
+Vary: X-Origin
+< Content-Type: application/json; charset=UTF-8
+Content-Type: application/json; charset=UTF-8
+< X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+< X-XSS-Protection: 1; mode=block
+X-XSS-Protection: 1; mode=block
+< Content-Length: 5614
+Content-Length: 5614
+< Server: GSE
+Server: GSE
+< Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+
+< 
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bJP7f0xKgJbs-qZ2YmchyoU9ZIw\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ZFFbHDtjXsz_xOi6LejFV3rMQEE\"",
+   "id": "UCDd0gHs1F9U1Suw6aHGFH5g",
+   "snippet": {
+    "title": "Britt's Space",
+    "description": "",
+    "customUrl": "brittsspace",
+    "publishedAt": "2010-03-22T18:47:38.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-ZSQFGToZmqg/AAAAAAAAAAI/AAAAAAAAAAA/mkfKObm452Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-ZSQFGToZmqg/AAAAAAAAAAI/AAAAAAAAAAA/mkfKObm452Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-ZSQFGToZmqg/AAAAAAAAAAI/AAAAAAAAAAA/mkfKObm452Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "localized": {
+     "title": "Britt's Space",
+     "description": ""
+    },
+    "country": "US"
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "likes": "LLDd0gHs1F9U1Suw6aHGFH5g",
+     "favorites": "FLDd0gHs1F9U1Suw6aHGFH5g",
+     "uploads": "UUDd0gHs1F9U1Suw6aHGFH5g",
+     "watchHistory": "HL",
+     "watchLater": "WL"
+    }
+   },
+   "statistics": {
+    "viewCount": "81530110",
+    "commentCount": "1096",
+    "subscriberCount": "399174",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1385"
+   },
+   "status": {
+    "privacyStatus": "public",
+    "isLinked": true,
+    "longUploadsStatus": "allowed"
+   },
+   "brandingSettings": {
+    "channel": {
+     "title": "Britt's Space",
+     "keywords": "YouTube YouTubers The Nive Nulls Austin Brittany Fullscreen online video marketing viral social media kansas city missouri KC",
+     "defaultTab": "Featured",
+     "trackingAnalyticsAccountId": "UA-23001998-1",
+     "showRelatedChannels": true,
+     "showBrowseView": true,
+     "featuredChannelsTitle": "SUBSCRIBE TO THESE GUYS TOO!",
+     "featuredChannelsUrls": [
+      "UCAKgZb79rW3aGAUQg3Mpd-g",
+      "UCPYnVLuSSqX4KJ9vfup2FcQ",
+      "UC6Cty1HbVfuG8u-0z7nKBXg",
+      "UC0VcpXqaW4m_JsHVGlOqb-w",
+      "UCS-_skzzo-MCacCkyms8FLg"
+     ],
+     "unsubscribedTrailer": "hwnHYdz5gQ4",
+     "profileColor": "#000000",
+     "country": "US"
+    },
+    "image": {
+     "bannerImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+     "bannerMobileImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w640-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no",
+     "bannerTabletLowImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1138-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+     "bannerTabletImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1707-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+     "bannerTabletHdImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w2276-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+     "bannerTabletExtraHdImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+     "bannerMobileLowImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w320-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no",
+     "bannerMobileMediumHdImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w960-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no",
+     "bannerMobileHdImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1280-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no",
+     "bannerMobileExtraHdImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1440-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no",
+     "bannerTvImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w2120-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no",
+     "bannerTvLowImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w854-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no",
+     "bannerTvMediumImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1280-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no",
+     "bannerTvHighImageUrl": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w1920-fcrop64=1,00000000ffffffff-nd-c0xffffffff-rj-k-no"
+    },
+    "hints": [
+     {
+      "property": "channel.banner.mobile.medium.image.url",
+      "value": "https://yt3.ggpht.com/hMRLoLPL879dSAx46-wSJoJZ9mYPSDCVBedX_gzqUDpX6azGJBcyZ635JZLtzJK9snfojswzlQ=w640-fcrop64=1,32b75a57cd48a5a8-nd-c0xffffffff-rj-k-no"
+     },
+     {
+      "property": "channel.modules.show_comments.bool",
+      "value": "True"
+     },
+     {
+      "property": "channel.featured_tab.template.string",
+      "value": "Everything"
+     }
+    ]
+   },
+   "auditDetails": {
+    "overallGoodStanding": true,
+    "communityGuidelinesGoodStanding": true,
+    "copyrightStrikesGoodStanding": true,
+    "contentIdClaimsGoodStanding": true
+   }
+  }
+ ]
+}
+* Connection #0 to host www.googleapis.com left intact

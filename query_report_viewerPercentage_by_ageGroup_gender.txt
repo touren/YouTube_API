@@ -1,0 +1,138 @@
+>            -d "ids=channel==MINE&start-date=2017-07-01&end-date=2017-08-01&metrics=viewerPercentage&dimensions=ageGroup,gender" \
+>             https://www.googleapis.com/youtube/analytics/v1/reports
+*   Trying 172.217.3.106...
+* TCP_NODELAY set
+* Connected to www.googleapis.com (172.217.3.106) port 443 (#0)
+* TLS 1.2 connection using TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+* Server certificate: *.googleapis.com
+* Server certificate: Google Internet Authority G2
+* Server certificate: GeoTrust Global CA
+> GET /youtube/analytics/v1/reports?ids=channel==MINE&start-date=2017-07-01&end-date=2017-08-01&metrics=viewerPercentage&dimensions=ageGroup,gender HTTP/1.1
+> Host: www.googleapis.com
+> User-Agent: curl/7.54.0
+> Accept: */*
+> Authorization: Bearer ya29.GluvBGZsSKRif6S2yXLB41wvnyf8ergyAIsRfWx_O4EURLlSmHmw8KktWOZgVRKftjhmKzmwBs0RVMlxxmu0yiBXMb9I9Rb7q3V5ZGYDMc_BeBoKVnz8lvtj86_g
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Expires: Tue, 22 Aug 2017 17:16:57 GMT
+Expires: Tue, 22 Aug 2017 17:16:57 GMT
+< Date: Tue, 22 Aug 2017 17:16:57 GMT
+Date: Tue, 22 Aug 2017 17:16:57 GMT
+< Cache-Control: private, max-age=0, must-revalidate, no-transform
+Cache-Control: private, max-age=0, must-revalidate, no-transform
+< ETag: "or2ZAFTlXtzsQmpjF3US76FXZ6M/yZDu-rK8yx4lFIOK2NiyTzOAbJA"
+ETag: "or2ZAFTlXtzsQmpjF3US76FXZ6M/yZDu-rK8yx4lFIOK2NiyTzOAbJA"
+< Vary: Origin
+Vary: Origin
+< Vary: X-Origin
+Vary: X-Origin
+< Content-Type: application/json; charset=UTF-8
+Content-Type: application/json; charset=UTF-8
+< X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+< X-XSS-Protection: 1; mode=block
+X-XSS-Protection: 1; mode=block
+< Content-Length: 942
+Content-Length: 942
+< Server: GSE
+Server: GSE
+< Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+
+< 
+{
+ "kind": "youtubeAnalytics#resultTable",
+ "columnHeaders": [
+  {
+   "name": "ageGroup",
+   "columnType": "DIMENSION",
+   "dataType": "STRING"
+  },
+  {
+   "name": "gender",
+   "columnType": "DIMENSION",
+   "dataType": "STRING"
+  },
+  {
+   "name": "viewerPercentage",
+   "columnType": "METRIC",
+   "dataType": "FLOAT"
+  }
+ ],
+ "rows": [
+  [
+   "age13-17",
+   "female",
+   5.0
+  ],
+  [
+   "age13-17",
+   "male",
+   0.6
+  ],
+  [
+   "age18-24",
+   "female",
+   28.3
+  ],
+  [
+   "age18-24",
+   "male",
+   2.0
+  ],
+  [
+   "age25-34",
+   "female",
+   34.2
+  ],
+  [
+   "age25-34",
+   "male",
+   3.6
+  ],
+  [
+   "age35-44",
+   "female",
+   12.4
+  ],
+  [
+   "age35-44",
+   "male",
+   2.0
+  ],
+  [
+   "age45-54",
+   "female",
+   5.8
+  ],
+  [
+   "age45-54",
+   "male",
+   1.1
+  ],
+  [
+   "age55-64",
+   "female",
+   2.6
+  ],
+  [
+   "age55-64",
+   "male",
+   0.3
+  ],
+  [
+   "age65-",
+   "female",
+   1.7
+  ],
+  [
+   "age65-",
+   "male",
+   0.3
+  ]
+ ]
+}
+* Connection #0 to host www.googleapis.com left intact

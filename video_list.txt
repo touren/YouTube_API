@@ -1,0 +1,87 @@
+*   Trying 172.217.12.202...
+* TCP_NODELAY set
+* Connected to www.googleapis.com (172.217.12.202) port 443 (#0)
+* TLS 1.2 connection using TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+* Server certificate: *.googleapis.com
+* Server certificate: Google Internet Authority G2
+* Server certificate: GeoTrust Global CA
+> GET /youtube/v3/search/?type=video&forMine=true&maxResults=25&part=snippet HTTP/1.1
+> Host: www.googleapis.com
+> User-Agent: curl/7.54.0
+> Accept: */*
+> Authorization: Bearer ya29.GlyvBFTEmB1lcnS5stN2-A5lUOetQYd59cKxwVNr9_sggKNOC3froVX0aXYwZf2Ug7KNOy3QSXveC-7cPvpx6uUtl4OP4E7GqKtCFNddUaZaV5enPaPNWusYCIp5Tg
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Expires: Tue, 22 Aug 2017 14:30:41 GMT
+Expires: Tue, 22 Aug 2017 14:30:41 GMT
+< Date: Tue, 22 Aug 2017 14:30:41 GMT
+Date: Tue, 22 Aug 2017 14:30:41 GMT
+< Cache-Control: private, max-age=120, must-revalidate, no-transform
+Cache-Control: private, max-age=120, must-revalidate, no-transform
+< ETag: "m2yskBQFythfE4irbTIeOgYYfBU/Df8iBnKyfawbYXHvLr-c_xZZj-E"
+ETag: "m2yskBQFythfE4irbTIeOgYYfBU/Df8iBnKyfawbYXHvLr-c_xZZj-E"
+< Vary: Origin
+Vary: Origin
+< Vary: X-Origin
+Vary: X-Origin
+< Content-Type: application/json; charset=UTF-8
+Content-Type: application/json; charset=UTF-8
+< X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+< X-XSS-Protection: 1; mode=block
+X-XSS-Protection: 1; mode=block
+< Content-Length: 1127
+Content-Length: 1127
+< Server: GSE
+Server: GSE
+< Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+
+< 
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Df8iBnKyfawbYXHvLr-c_xZZj-E\"",
+ "nextPageToken": "Cib3-axnAf____9RbnJXTGJKbTlfOAD_Af_-UW5yV0xiSm05XzgAARABIXf1OU06lIEBOQAAAAD-mFMGSAFQAFoLCU6rIifUO4erEAJg85OIiwM=",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 25
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/g9e4MTfSlQoZYCaWviFgUaf6pok\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QnrWLbJm9_8"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-21T20:07:30.000Z",
+    "channelId": "UC_8Q_pOOCueyfmsdZ1scRgA",
+    "title": "IMG 6188",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QnrWLbJm9_8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QnrWLbJm9_8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QnrWLbJm9_8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
+* Connection #0 to host www.googleapis.com left intact

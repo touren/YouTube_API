@@ -1,0 +1,857 @@
+*   Trying 172.217.6.234...
+* TCP_NODELAY set
+* Connected to www.googleapis.com (172.217.6.234) port 443 (#0)
+* TLS 1.2 connection using TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+* Server certificate: *.googleapis.com
+* Server certificate: Google Internet Authority G2
+* Server certificate: GeoTrust Global CA
+> GET /youtube/analytics/v1/reports?ids=channel==MINE&start-date=2017-07-01&end-date=2017-08-01&metrics=views,averageViewDuration&dimensions=day,youtubeProduct HTTP/1.1
+> Host: www.googleapis.com
+> User-Agent: curl/7.54.0
+> Accept: */*
+> Authorization: Bearer ya29.GluvBGZsSKRif6S2yXLB41wvnyf8ergyAIsRfWx_O4EURLlSmHmw8KktWOZgVRKftjhmKzmwBs0RVMlxxmu0yiBXMb9I9Rb7q3V5ZGYDMc_BeBoKVnz8lvtj86_g
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Expires: Tue, 22 Aug 2017 17:10:56 GMT
+Expires: Tue, 22 Aug 2017 17:10:56 GMT
+< Date: Tue, 22 Aug 2017 17:10:56 GMT
+Date: Tue, 22 Aug 2017 17:10:56 GMT
+< Cache-Control: private, max-age=0, must-revalidate, no-transform
+Cache-Control: private, max-age=0, must-revalidate, no-transform
+< ETag: "or2ZAFTlXtzsQmpjF3US76FXZ6M/WrfVTn4nGGRAYQ_or7EHAhlASOQ"
+ETag: "or2ZAFTlXtzsQmpjF3US76FXZ6M/WrfVTn4nGGRAYQ_or7EHAhlASOQ"
+< Vary: Origin
+Vary: Origin
+< Vary: X-Origin
+Vary: X-Origin
+< Content-Type: application/json; charset=UTF-8
+Content-Type: application/json; charset=UTF-8
+< X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+< X-XSS-Protection: 1; mode=block
+X-XSS-Protection: 1; mode=block
+< Content-Length: 4169
+Content-Length: 4169
+< Server: GSE
+Server: GSE
+< Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+
+< 
+{
+ "kind": "youtubeAnalytics#resultTable",
+ "columnHeaders": [
+  {
+   "name": "day",
+   "columnType": "DIMENSION",
+   "dataType": "STRING"
+  },
+  {
+   "name": "youtubeProduct",
+   "columnType": "DIMENSION",
+   "dataType": "STRING"
+  },
+  {
+   "name": "views",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  },
+  {
+   "name": "averageViewDuration",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  }
+ ],
+ "rows": [
+  [
+   "2017-07-01",
+   "CORE",
+   15064.0,
+   249.0
+  ],
+  [
+   "2017-07-01",
+   "KIDS",
+   3488.0,
+   176.0
+  ],
+  [
+   "2017-07-02",
+   "CORE",
+   12215.0,
+   223.0
+  ],
+  [
+   "2017-07-02",
+   "KIDS",
+   3481.0,
+   166.0
+  ],
+  [
+   "2017-07-03",
+   "CORE",
+   18395.0,
+   282.0
+  ],
+  [
+   "2017-07-03",
+   "KIDS",
+   3198.0,
+   174.0
+  ],
+  [
+   "2017-07-04",
+   "CORE",
+   11667.0,
+   239.0
+  ],
+  [
+   "2017-07-04",
+   "KIDS",
+   2684.0,
+   171.0
+  ],
+  [
+   "2017-07-05",
+   "CORE",
+   11657.0,
+   228.0
+  ],
+  [
+   "2017-07-05",
+   "KIDS",
+   3760.0,
+   185.0
+  ],
+  [
+   "2017-07-06",
+   "CORE",
+   11488.0,
+   224.0
+  ],
+  [
+   "2017-07-06",
+   "KIDS",
+   3251.0,
+   185.0
+  ],
+  [
+   "2017-07-07",
+   "CORE",
+   18541.0,
+   239.0
+  ],
+  [
+   "2017-07-07",
+   "KIDS",
+   3529.0,
+   182.0
+  ],
+  [
+   "2017-07-08",
+   "CORE",
+   12421.0,
+   224.0
+  ],
+  [
+   "2017-07-08",
+   "KIDS",
+   3676.0,
+   189.0
+  ],
+  [
+   "2017-07-09",
+   "CORE",
+   10896.0,
+   223.0
+  ],
+  [
+   "2017-07-09",
+   "KIDS",
+   3944.0,
+   179.0
+  ],
+  [
+   "2017-07-09",
+   "GAMING",
+   1.0,
+   17.0
+  ],
+  [
+   "2017-07-10",
+   "CORE",
+   10552.0,
+   215.0
+  ],
+  [
+   "2017-07-10",
+   "KIDS",
+   4237.0,
+   193.0
+  ],
+  [
+   "2017-07-11",
+   "CORE",
+   11792.0,
+   209.0
+  ],
+  [
+   "2017-07-11",
+   "KIDS",
+   3813.0,
+   184.0
+  ],
+  [
+   "2017-07-12",
+   "CORE",
+   12918.0,
+   207.0
+  ],
+  [
+   "2017-07-12",
+   "KIDS",
+   4692.0,
+   187.0
+  ],
+  [
+   "2017-07-13",
+   "CORE",
+   12225.0,
+   198.0
+  ],
+  [
+   "2017-07-13",
+   "KIDS",
+   4330.0,
+   185.0
+  ],
+  [
+   "2017-07-14",
+   "CORE",
+   12353.0,
+   196.0
+  ],
+  [
+   "2017-07-14",
+   "KIDS",
+   3612.0,
+   161.0
+  ],
+  [
+   "2017-07-15",
+   "CORE",
+   11914.0,
+   196.0
+  ],
+  [
+   "2017-07-15",
+   "KIDS",
+   3732.0,
+   173.0
+  ],
+  [
+   "2017-07-16",
+   "CORE",
+   11229.0,
+   200.0
+  ],
+  [
+   "2017-07-16",
+   "KIDS",
+   3743.0,
+   170.0
+  ],
+  [
+   "2017-07-17",
+   "CORE",
+   13268.0,
+   199.0
+  ],
+  [
+   "2017-07-17",
+   "KIDS",
+   3582.0,
+   178.0
+  ],
+  [
+   "2017-07-18",
+   "CORE",
+   11836.0,
+   202.0
+  ],
+  [
+   "2017-07-18",
+   "KIDS",
+   3003.0,
+   175.0
+  ],
+  [
+   "2017-07-19",
+   "CORE",
+   11424.0,
+   203.0
+  ],
+  [
+   "2017-07-19",
+   "KIDS",
+   2650.0,
+   163.0
+  ],
+  [
+   "2017-07-20",
+   "CORE",
+   10010.0,
+   185.0
+  ],
+  [
+   "2017-07-20",
+   "KIDS",
+   3436.0,
+   160.0
+  ],
+  [
+   "2017-07-21",
+   "CORE",
+   148214.0,
+   371.0
+  ],
+  [
+   "2017-07-21",
+   "KIDS",
+   3443.0,
+   158.0
+  ],
+  [
+   "2017-07-22",
+   "CORE",
+   109517.0,
+   274.0
+  ],
+  [
+   "2017-07-22",
+   "KIDS",
+   3271.0,
+   160.0
+  ],
+  [
+   "2017-07-23",
+   "CORE",
+   182981.0,
+   227.0
+  ],
+  [
+   "2017-07-23",
+   "KIDS",
+   3813.0,
+   161.0
+  ],
+  [
+   "2017-07-24",
+   "CORE",
+   49281.0,
+   208.0
+  ],
+  [
+   "2017-07-24",
+   "KIDS",
+   4708.0,
+   167.0
+  ],
+  [
+   "2017-07-25",
+   "CORE",
+   34444.0,
+   201.0
+  ],
+  [
+   "2017-07-25",
+   "KIDS",
+   4081.0,
+   183.0
+  ],
+  [
+   "2017-07-26",
+   "CORE",
+   34571.0,
+   195.0
+  ],
+  [
+   "2017-07-26",
+   "KIDS",
+   4426.0,
+   182.0
+  ],
+  [
+   "2017-07-27",
+   "CORE",
+   24937.0,
+   196.0
+  ],
+  [
+   "2017-07-27",
+   "KIDS",
+   4079.0,
+   182.0
+  ],
+  [
+   "2017-07-28",
+   "CORE",
+   41201.0,
+   194.0
+  ],
+  [
+   "2017-07-28",
+   "KIDS",
+   3376.0,
+   188.0
+  ],
+  [
+   "2017-07-29",
+   "CORE",
+   33285.0,
+   191.0
+  ],
+  [
+   "2017-07-29",
+   "KIDS",
+   3180.0,
+   186.0
+  ],
+  [
+   "2017-07-30",
+   "CORE",
+   24155.0,
+   189.0
+  ],
+  [
+   "2017-07-30",
+   "KIDS",
+   3428.0,
+   181.0
+  ],
+  [
+   "2017-07-31",
+   "CORE",
+   136427.0,
+   244.0
+  ],
+  [
+   "2017-07-31",
+   "KIDS",
+   4016.0,
+   182.0
+  ],
+  [
+   "2017-08-01",
+   "CORE",
+   88959.0,
+   221.0
+  ],
+  [
+   "2017-08-01",
+   "KIDS",
+   3112.0,
+   175.0
+  ]
+ ]
+}
+* Connection #0 to host www.googleapis.com left intact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*   Trying 172.217.10.74...
+* TCP_NODELAY set
+* Connected to www.googleapis.com (172.217.10.74) port 443 (#0)
+* TLS 1.2 connection using TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+* Server certificate: *.googleapis.com
+* Server certificate: Google Internet Authority G2
+* Server certificate: GeoTrust Global CA
+> GET /youtube/analytics/v1/reports?ids=channel==MINE&start-date=2015-01-01&end-date=2017-09-01&metrics=views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained,subscribersLost&dimensions=month HTTP/1.1
+> Host: www.googleapis.com
+> User-Agent: curl/7.54.0
+> Accept: */*
+> Authorization: Bearer ya29.Glu2BDCf9KyezzFA-VRevk5zlMK7CcxAK6YfrgltdJ2Ccqmu83_whK7i54OZhHU8lWvnS9qiEpS1KeF0utARxCBemIl8oKk6sCFVEDIoHRByazgiPhA_1VNWg8Zj
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Expires: Tue, 29 Aug 2017 15:30:49 GMT
+Expires: Tue, 29 Aug 2017 15:30:49 GMT
+< Date: Tue, 29 Aug 2017 15:30:49 GMT
+Date: Tue, 29 Aug 2017 15:30:49 GMT
+< Cache-Control: private, max-age=0, must-revalidate, no-transform
+Cache-Control: private, max-age=0, must-revalidate, no-transform
+< ETag: "or2ZAFTlXtzsQmpjF3US76FXZ6M/jOP-dZSI9cGRjEWKVr43sZwTaFE"
+ETag: "or2ZAFTlXtzsQmpjF3US76FXZ6M/jOP-dZSI9cGRjEWKVr43sZwTaFE"
+< Vary: Origin
+Vary: Origin
+< Vary: X-Origin
+Vary: X-Origin
+< Content-Type: application/json; charset=UTF-8
+Content-Type: application/json; charset=UTF-8
+< X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+< X-XSS-Protection: 1; mode=block
+X-XSS-Protection: 1; mode=block
+< Content-Length: 4092
+Content-Length: 4092
+< Server: GSE
+Server: GSE
+< Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+Alt-Svc: quic=":443"; ma=2592000; v="39,38,37,35"
+
+< 
+{
+ "kind": "youtubeAnalytics#resultTable",
+ "columnHeaders": [
+  {
+   "name": "month",
+   "columnType": "DIMENSION",
+   "dataType": "STRING"
+  },
+  {
+   "name": "views",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  },
+  {
+   "name": "estimatedMinutesWatched",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  },
+  {
+   "name": "averageViewDuration",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  },
+  {
+   "name": "averageViewPercentage",
+   "columnType": "METRIC",
+   "dataType": "FLOAT"
+  },
+  {
+   "name": "subscribersGained",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  },
+  {
+   "name": "subscribersLost",
+   "columnType": "METRIC",
+   "dataType": "INTEGER"
+  }
+ ],
+ "rows": [
+  [
+   "2015-01",
+   2207607.0,
+   1.5432926E7,
+   419.0,
+   50.36347132036047,
+   19203.0,
+   6375.0
+  ],
+  [
+   "2015-02",
+   2329874.0,
+   1.5746385E7,
+   405.0,
+   52.03632159858398,
+   24669.0,
+   5565.0
+  ],
+  [
+   "2015-03",
+   2400784.0,
+   1.5767938E7,
+   394.0,
+   53.109158591963315,
+   20724.0,
+   6280.0
+  ],
+  [
+   "2015-04",
+   2431453.0,
+   1.5840448E7,
+   390.0,
+   49.44098381140865,
+   15747.0,
+   6020.0
+  ],
+  [
+   "2015-05",
+   2038654.0,
+   1.2507688E7,
+   368.0,
+   42.76201137068834,
+   11527.0,
+   5295.0
+  ],
+  [
+   "2015-06",
+   2560824.0,
+   1.6003799E7,
+   374.0,
+   45.512476940042795,
+   14514.0,
+   5759.0
+  ],
+  [
+   "2015-07",
+   3336811.0,
+   1.8153312E7,
+   326.0,
+   40.2151023885821,
+   20900.0,
+   4481.0
+  ],
+  [
+   "2015-08",
+   3425378.0,
+   1.7550023E7,
+   307.0,
+   38.13241463515023,
+   20423.0,
+   4137.0
+  ],
+  [
+   "2015-09",
+   2834592.0,
+   1.7476002E7,
+   369.0,
+   43.811424661782624,
+   13871.0,
+   3020.0
+  ],
+  [
+   "2015-10",
+   3969761.0,
+   2.2802586E7,
+   344.0,
+   44.36022039926154,
+   22112.0,
+   2443.0
+  ],
+  [
+   "2015-11",
+   3050066.0,
+   1.7856811E7,
+   351.0,
+   44.55657908276008,
+   15500.0,
+   3874.0
+  ],
+  [
+   "2015-12",
+   2621245.0,
+   1.5439715E7,
+   353.0,
+   40.867016012918675,
+   9876.0,
+   5687.0
+  ],
+  [
+   "2016-01",
+   2492191.0,
+   1.106987E7,
+   266.0,
+   32.835898088599656,
+   12364.0,
+   9792.0
+  ],
+  [
+   "2016-02",
+   2062258.0,
+   1.0528082E7,
+   306.0,
+   40.89418442014273,
+   8966.0,
+   6163.0
+  ],
+  [
+   "2016-03",
+   2224355.0,
+   9797545.0,
+   264.0,
+   36.53916240970522,
+   8038.0,
+   5669.0
+  ],
+  [
+   "2016-04",
+   1944718.0,
+   9023260.0,
+   278.0,
+   36.59974211150415,
+   7656.0,
+   5003.0
+  ],
+  [
+   "2016-05",
+   2813087.0,
+   1.3019819E7,
+   277.0,
+   35.92429055589664,
+   18350.0,
+   4786.0
+  ],
+  [
+   "2016-06",
+   2378145.0,
+   1.1837183E7,
+   298.0,
+   35.60497771042937,
+   12920.0,
+   4602.0
+  ],
+  [
+   "2016-07",
+   1849932.0,
+   8849034.0,
+   287.0,
+   36.03828684342245,
+   10194.0,
+   5006.0
+  ],
+  [
+   "2016-08",
+   1427750.0,
+   6791312.0,
+   285.0,
+   33.37116235737314,
+   7484.0,
+   4196.0
+  ],
+  [
+   "2016-09",
+   1246028.0,
+   6757962.0,
+   325.0,
+   38.49489106195569,
+   4703.0,
+   3182.0
+  ],
+  [
+   "2016-10",
+   1022984.0,
+   5005025.0,
+   293.0,
+   37.5591586471195,
+   3569.0,
+   2636.0
+  ],
+  [
+   "2016-11",
+   1085480.0,
+   4886880.0,
+   270.0,
+   40.073688021899024,
+   3470.0,
+   2869.0
+  ],
+  [
+   "2016-12",
+   903500.0,
+   4145039.0,
+   275.0,
+   37.123448843543834,
+   3327.0,
+   2751.0
+  ],
+  [
+   "2017-01",
+   968663.0,
+   4397747.0,
+   272.0,
+   37.876480393043224,
+   3928.0,
+   2975.0
+  ],
+  [
+   "2017-02",
+   726557.0,
+   3514825.0,
+   290.0,
+   38.08623192288261,
+   2929.0,
+   3077.0
+  ],
+  [
+   "2017-03",
+   852863.0,
+   4157580.0,
+   292.0,
+   37.71724762831637,
+   3319.0,
+   3103.0
+  ],
+  [
+   "2017-04",
+   633157.0,
+   3125049.0,
+   296.0,
+   37.05184026191867,
+   2163.0,
+   2655.0
+  ],
+  [
+   "2017-05",
+   617885.0,
+   2960937.0,
+   287.0,
+   37.58931992161047,
+   2060.0,
+   2157.0
+  ],
+  [
+   "2017-06",
+   575497.0,
+   2449522.0,
+   255.0,
+   34.44653383027701,
+   2332.0,
+   2913.0
+  ],
+  [
+   "2017-07",
+   1184541.0,
+   4726023.0,
+   239.0,
+   27.98978231342521,
+   4984.0,
+   4094.0
+  ],
+  [
+   "2017-08",
+   1039510.0,
+   3579420.0,
+   206.0,
+   33.313549432901766,
+   6337.0,
+   3166.0
+  ]
+ ]
+}
+* Connection #0 to host www.googleapis.com left intact

@@ -1,0 +1,4 @@
+https://developers.google.com/youtube/v3/
+
+example requsts is in curl_scripts.sh, based on the youtube channel: https://www.youtube.com/user/thenivenulls
+

@@ -1,0 +1,74 @@
+/**
+ * API response
+ */
+{
+  "kind": "youtube#channelSectionListResponse",
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/c_ISohfxNUA8c1FFAKTDnFTu5rI\"",
+  "items": [
+    {
+      "kind": "youtube#channelSection",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/B3W4w4ZyQwwUGQGAChP6Uu1e0rw\"",
+      "id": "UCDd0gHs1F9U1Suw6aHGFH5g.MykmTeTiooA",
+      "snippet": {
+        "type": "recentUploads",
+        "style": "horizontalRow",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 0
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/T3Z98zzQsfJBjTeB2nxxGTKZygA\"",
+      "id": "UCDd0gHs1F9U1Suw6aHGFH5g.XgM4c0oGu94",
+      "snippet": {
+        "type": "singlePlaylist",
+        "style": "horizontalRow",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 1
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLe7PhV2Qn0ksUVcO24X2CSQJiXGWThmGP"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/v0c9tPLCRC8MTnlpcF8ZUUKp8ns\"",
+      "id": "UCDd0gHs1F9U1Suw6aHGFH5g.aBfUFr9SBY0",
+      "snippet": {
+        "type": "singlePlaylist",
+        "style": "horizontalRow",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 2
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLe7PhV2Qn0ktQWdgOuBiIncITU8sQzEZ4"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8OAbny9hsivJfhhLgCc2h3E0V00\"",
+      "id": "UCDd0gHs1F9U1Suw6aHGFH5g.aqsRo9JYx5M",
+      "snippet": {
+        "type": "likes",
+        "style": "horizontalRow",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 3
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/o1C7YSAkq6yvLcNHjsF0yl6GptY\"",
+      "id": "UCDd0gHs1F9U1Suw6aHGFH5g.iJLXf_7B368",
+      "snippet": {
+        "type": "popularUploads",
+        "style": "horizontalRow",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 4
+      }
+    }
+  ]
+}

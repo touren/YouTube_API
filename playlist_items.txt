@@ -1,0 +1,1114 @@
+/**
+ * API response
+ */
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bDvvhLdszabk-gKTbUGoxLSfQMo\"",
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 1345,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/zZPSvAypqU8iCfTLnEGC4Mm1pxw\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLnBwUElhS3hVdGE4",
+      "snippet": {
+        "publishedAt": "2017-08-21T11:30:02.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "Finding Hope During Heartache",
+        "description": "This week's Motivational Monday features my brother and his beautiful family! So thankful they were willing to share their story! To learn more about Prune Belly Syndrome and to DONATE visit the link below.\nDONATE HERE:\nhttps://www.gofundme.com/ILOVEAPRUNEBELLYBABY-BABY-BRENNAN\n\nPRUNE BELLY T-SHIRTS: https://www.bonfire.com/iloveaprunebellybaby/?utm_source=facebook&utm_medium=campaign_page_share&utm_campaign=iloveaprunebellybaby&utm_content=default",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ppPIaKxUta8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ppPIaKxUta8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ppPIaKxUta8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ppPIaKxUta8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ppPIaKxUta8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ppPIaKxUta8",
+        "videoPublishedAt": "2017-08-21T11:30:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bLhCVd8sR6ddyQ7jjTp6E7ZsK3o\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLmxUQ1pNRldxV1BR",
+      "snippet": {
+        "publishedAt": "2017-08-18T11:30:03.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "Kindergarten Craziness!!!",
+        "description": "Today's vlog was a tough one for me, but made it through! Be sure to subscribe to catch every video MONDAY WEDNESDAY and FRIDAY!\nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTCZMFWqWPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTCZMFWqWPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTCZMFWqWPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lTCZMFWqWPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lTCZMFWqWPQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lTCZMFWqWPQ",
+        "videoPublishedAt": "2017-08-18T11:30:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/loHckj7N5nnSFM4O508hOqgNr8M\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLkFyQS1xUFZPN2xR",
+      "snippet": {
+        "publishedAt": "2017-08-16T11:30:00.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "My 5 Year Old Does My Makeup!!!",
+        "description": "Audri's Corner is all about makeup!!!  Enjoy and make sure you SUBSCRIBE to catch all the awesomeness! \nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ArA-qPVO7lQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ArA-qPVO7lQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ArA-qPVO7lQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ArA-qPVO7lQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ArA-qPVO7lQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ArA-qPVO7lQ",
+        "videoPublishedAt": "2017-08-16T11:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/KKyW1Pvgp4x-5IJHdrmgeCZnleM\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLjRNQkVycG5mNE9R",
+      "snippet": {
+        "publishedAt": "2017-08-22T11:34:21.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "MOM HACKS: Tips For Surviving Motherhood!!!",
+        "description": "In today's video, learn all about my go-to tips and tricks that help save time AND money! Shout out to Pamper's for sponsoring this video! Be sure to sign up for Pampers Rewards!\nPAMPERS REWARDS:\nhttps://app.adjust.com/wggm35 \n\n Enjoy and make sure you SUBSCRIBE to catch all the awesomeness! \nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4MBErpnf4OQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4MBErpnf4OQ",
+        "videoPublishedAt": "2017-08-22T11:34:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/btl8AJDgfk3C-BnMstKRb4EXf9c\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLl9qcEllVWMtNlBB",
+      "snippet": {
+        "publishedAt": "2017-08-14T11:00:03.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "Overcoming Adversity",
+        "description": "Follow Ruby Jeans Juicery! https://www.instagram.com/rubyjeansjuicery/\nFollow Chris! https://www.instagram.com/mrchrisgoode/\n\nWelcome to Motivational Monday! This week is all about overcoming adversity and rising above!  Chris Goode, owner of Ruby Jean's Juicery shares his amazing story and how he stays motivated/inspired. Enjoy!! \n\nRUBY JEAN'S JUICERY LOCATION:\n1111 Main St.\nKansas City MO. 64106\n\nBe sure to SUBSCRIBE to catch all the awesomeness every MONDAY WEDNESDAY AND FRIDAY!\n\nFOLLOW ME:\n\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n\n~Music~\nwww.bensound.com\n\nEasy Lemon by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200076\nArtist: http://incompetech.com/\n\nThat Kid in Fourth Grade Who Really Liked the Denver Broncos by Chris Zabriskie is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://chriszabriskie.com/uvp/\nArtist: http://chriszabriskie.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_jpIeUc-6PA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_jpIeUc-6PA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_jpIeUc-6PA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_jpIeUc-6PA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_jpIeUc-6PA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_jpIeUc-6PA",
+        "videoPublishedAt": "2017-08-14T11:00:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/0x027wzTfMbdVmvJy6ujtr_vGf0\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLktCSmduZ25haHNV",
+      "snippet": {
+        "publishedAt": "2017-08-11T12:00:01.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "French Fry Challenge!!!",
+        "description": "Be sure to SUBSCRIBE and tune in every MONDAY, WEDNESDAY and FRIDAY\nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com\n\nEasy Lemon by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200076\nArtist: http://incompetech.com/\n\nSerenity by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://audionautix.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KBJgngnahsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KBJgngnahsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KBJgngnahsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KBJgngnahsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KBJgngnahsU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KBJgngnahsU",
+        "videoPublishedAt": "2017-08-11T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/o6Npiei3UpsAEUkxE4fo_tS2SR0\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLnZBcy1ET285RF9V",
+      "snippet": {
+        "publishedAt": "2017-08-09T11:30:01.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "How To Make Rainbow Cupcakes",
+        "description": "This week on Audri's Corner, it's all about cupcakes! Enjoy and make sure you SUBSCRIBE to catch all the awesomeness! \nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vAs-DOo9D_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vAs-DOo9D_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vAs-DOo9D_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vAs-DOo9D_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vAs-DOo9D_U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vAs-DOo9D_U",
+        "videoPublishedAt": "2017-08-09T11:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3cGoud-kMUjPL5ow4WiJTqiOIVc\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLkpxSjNRVnNqeW9Z",
+      "snippet": {
+        "publishedAt": "2017-08-07T13:00:04.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "Moving To Europe?!?",
+        "description": "Welcome to another fabulous Monday video!! Enjoy, comment and SUBSCRIBE!\nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JqJ3QVsjyoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JqJ3QVsjyoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JqJ3QVsjyoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JqJ3QVsjyoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JqJ3QVsjyoY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JqJ3QVsjyoY",
+        "videoPublishedAt": "2017-08-07T13:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/t95p3ZbCg4wQhi1GZe7zLVONRpg\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLjk3Z2p6Vkx0SUtF",
+      "snippet": {
+        "publishedAt": "2017-08-04T12:00:00.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "Toddler Trouble",
+        "description": "Welcome to this Friday's video! Excited to share a fun vlog of our highlights of the week! \n\nSUBSCRIBE and tune in every MONDAY-WEDNESDAY-FRIDAY!\n\nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/97gjzVLtIKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/97gjzVLtIKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/97gjzVLtIKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/97gjzVLtIKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "97gjzVLtIKE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "97gjzVLtIKE",
+        "videoPublishedAt": "2017-08-04T12:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/g7RBzALX94ed0VNhtv-4k7oNQNU\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLjNOU3kxajA3SVZz",
+      "snippet": {
+        "publishedAt": "2017-08-02T12:00:01.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "FIDGET SPINNER FAIL",
+        "description": "Welcome to Audri's Corner. Every Wednesday this little girl boss will be bringing you a fantastic video! \n\nSUBSCRIBE and tune in every MONDAY-WEDNESDAY-FRIDAY!\n\nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3NSy1j07IVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3NSy1j07IVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NSy1j07IVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3NSy1j07IVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3NSy1j07IVs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3NSy1j07IVs",
+        "videoPublishedAt": "2017-08-02T12:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/uM2IGXNsQKJJQVdjK1hEpeAGuJY\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLmh3bkhZZHo1Z1E0",
+      "snippet": {
+        "publishedAt": "2017-07-31T13:03:54.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "A NEW JOURNEY",
+        "description": "Welcome to my new channel!  I'm excited to be starting a new chapter in my life. Be sure to SUBSCRIBE and tune in every MONDAY-WEDNESDAY-FRIDAY!\n\nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hwnHYdz5gQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hwnHYdz5gQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hwnHYdz5gQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hwnHYdz5gQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hwnHYdz5gQ4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hwnHYdz5gQ4",
+        "videoPublishedAt": "2017-07-31T13:03:54.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/9rdpbH3izgkLRc6qrIdZHPQtqvE\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLjJLcm1QXzVuZGZN",
+      "snippet": {
+        "publishedAt": "2017-07-21T14:00:01.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "GETTING A DIVORCE (not clickbait)",
+        "description": "This was definitely the hardest video I've ever had to make. I know many of you will be upset and you have the right to be. I just ask that you please respect Brittany and support her through this tough time. She'll continue to make videos with the kids and has a bunch of new ideas. \n\nAs for myself, I'm going to be offline for awhile most likely as I try to figure out what's next for me. I just want to reiterate that my kids are still my number one priority in life and I want to support them (and Brittany) the best I can through this difficult time. I just know that this is the right decision for me and it needed to be made. \n\nAlso, I mentioned this video from Elliot Morgan (https://www.youtube.com/watch?v=SmNIvffhse0) that possibly does a better job of clarifying my emotions, feelings and similar life experience through all of this if you're interested in understanding what I'm thinking and going through right now. \n\nLike I said, please show respect to Brittany through this. If you're going to flood her social media accounts with comments then please make them respectful, supportive and loving. Thanks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2KrmP_5ndfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2KrmP_5ndfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2KrmP_5ndfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2KrmP_5ndfM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2KrmP_5ndfM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2KrmP_5ndfM",
+        "videoPublishedAt": "2017-07-21T14:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3YaY38SUQlMVWWLgsazo5T3pF4M\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLkM3UmlFNEVkNlpn",
+      "snippet": {
+        "publishedAt": "2017-07-07T18:54:10.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "TO MAKE IT HAPPEN, THIS VIDEO NEEDS 1MM VIEWS...",
+        "description": "Watch an EXTRA video on our Facebook Page here: https://www.bit.ly/2tMnYWE\nPrevious Video (VIP Experience): https://youtu.be/FY8LSUuJx1s\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C7RiE4Ed6Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C7RiE4Ed6Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C7RiE4Ed6Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C7RiE4Ed6Zg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C7RiE4Ed6Zg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C7RiE4Ed6Zg",
+        "videoPublishedAt": "2017-07-07T18:54:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/sNF0YrPOWL_EQvoRviGAkFcVM8A\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLkZZOExTVXVKeDFz",
+      "snippet": {
+        "publishedAt": "2017-07-03T15:39:03.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "EPIC VIP EXPERIENCE!!!",
+        "description": "Thanks Sporting Kansas City and SeatGeek for sponsoring the video. Get $20 off tix w/ code AUSTIN: https://sg.app.link/austin\nPrevious Video (Floor Is Lava): https://youtu.be/mYgAO1Uv45M\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FY8LSUuJx1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FY8LSUuJx1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FY8LSUuJx1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FY8LSUuJx1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FY8LSUuJx1s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FY8LSUuJx1s",
+        "videoPublishedAt": "2017-07-03T15:39:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/XniVnfflF9Yz_SdYJbNPVRh3H2A\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLm1ZZ0FPMVV2NDVN",
+      "snippet": {
+        "publishedAt": "2017-06-30T20:17:37.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "THE FLOOR IS LAVA!!!",
+        "description": "Get one of the shirts featured in this video: https://teespring.com/stores/thenivenulls\nPrevious Video (This Is Scary): https://youtu.be/Oszoo1ypYd8\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYgAO1Uv45M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYgAO1Uv45M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYgAO1Uv45M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mYgAO1Uv45M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mYgAO1Uv45M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mYgAO1Uv45M",
+        "videoPublishedAt": "2017-06-30T20:17:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Q2fIt317x3-BHKBGoIO_AsoFl0g\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLk9zem9vMXlwWWQ4",
+      "snippet": {
+        "publishedAt": "2017-06-28T19:42:55.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "THIS IS SCARY",
+        "description": "Previous Video (Cutest Minion Ever): https://youtu.be/8gNnmFSVOYo\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oszoo1ypYd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oszoo1ypYd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oszoo1ypYd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oszoo1ypYd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oszoo1ypYd8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Oszoo1ypYd8",
+        "videoPublishedAt": "2017-06-28T19:42:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7iz8_FBkJopDe6e7spgxHZeB8wE\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLjhnTm5tRlNWT1lv",
+      "snippet": {
+        "publishedAt": "2017-06-26T16:07:29.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "CUTEST MINION EVER!!!",
+        "description": "Previous Video (Petty Vlog): https://youtu.be/-l0nXX6r9oY\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8gNnmFSVOYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8gNnmFSVOYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8gNnmFSVOYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8gNnmFSVOYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8gNnmFSVOYo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8gNnmFSVOYo",
+        "videoPublishedAt": "2017-06-26T16:07:29.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/U1Y_vFEsOfPwHIIYCLfN3eo6hes\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLi1sMG5YWDZyOW9Z",
+      "snippet": {
+        "publishedAt": "2017-06-23T16:20:57.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "MOST PETTY VLOG EVER 👀",
+        "description": "Previous Video (RIP Grandpa): https://youtu.be/OT7SP9iBc_g\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-l0nXX6r9oY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-l0nXX6r9oY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-l0nXX6r9oY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-l0nXX6r9oY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-l0nXX6r9oY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-l0nXX6r9oY",
+        "videoPublishedAt": "2017-06-23T16:20:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/avzeMJK-Ncx9ijZ4BcukbQbpS_M\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLk9UN1NQOWlCY19n",
+      "snippet": {
+        "publishedAt": "2017-06-21T19:49:48.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "ANOTHER FUNERAL | RIP GRANDPA 😔",
+        "description": "Previous Video (Scary Storm!): https://youtu.be/do1AmDVJGdA\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OT7SP9iBc_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OT7SP9iBc_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OT7SP9iBc_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OT7SP9iBc_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OT7SP9iBc_g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OT7SP9iBc_g",
+        "videoPublishedAt": "2017-06-21T19:49:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/gJq7pqiOgqy1EqgsnKlikl1OM6o\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLmRvMUFtRFZKR2RB",
+      "snippet": {
+        "publishedAt": "2017-06-19T15:09:35.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "SCARY STORM POWER OUTAGE!!!",
+        "description": "Previous Video (#BlackFathersDay): https://youtu.be/wpU3kzJ256E\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/do1AmDVJGdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/do1AmDVJGdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/do1AmDVJGdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/do1AmDVJGdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "do1AmDVJGdA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "do1AmDVJGdA",
+        "videoPublishedAt": "2017-06-19T15:09:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/dcF5uzhvSmvW98obB8Bdje5FeTk\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLndwVTNrekoyNTZF",
+      "snippet": {
+        "publishedAt": "2017-06-14T19:21:11.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "#BlackFathersDay",
+        "description": "#BlackFathersDay in Blavity: https://blavity.com/beleaf-austin-null-black-fathers-day-campaign\n#BlackFathersDay in The Root: http://thegrapevine.theroot.com/blackfathersday-divergent-media-and-black-fathers-fro-1796098713\nWatch Beleaf's video: https://youtu.be/wj7suHDrADM\nWatch LaGuardia's video: https://youtu.be/7sSnYWMdREI\nWatch LifeInProvoVille's video: https://youtu.be/Mj0kmilsUQM\nWatch MeetTheChamber's video: https://youtu.be/Z8J8qEnV5Ic\n\nPrevious Video (Moana Birthday!): https://youtu.be/I6w5v8HRNc8\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wpU3kzJ256E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wpU3kzJ256E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wpU3kzJ256E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wpU3kzJ256E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wpU3kzJ256E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wpU3kzJ256E",
+        "videoPublishedAt": "2017-06-14T19:21:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/tlX1L9XBu8JxFqhqLHYuwoOMQ7w\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLkk2dzV2OEhSTmM4",
+      "snippet": {
+        "publishedAt": "2017-06-12T15:54:23.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "EPIC MOANA BIRTHDAY PARTY!!!",
+        "description": "Get ready for #BlackFathersDay (more info soon): https://blavity.com/beleaf-austin-null-black-fathers-day-campaign\nPrevious Video (Moana IRL): https://youtu.be/JpRAo2Nrj-E\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6w5v8HRNc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6w5v8HRNc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6w5v8HRNc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I6w5v8HRNc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I6w5v8HRNc8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I6w5v8HRNc8",
+        "videoPublishedAt": "2017-06-12T15:54:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Ceq23daYs_LpTf1VDAlYkb8M5GQ\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLkpwUkFvMk5yai1F",
+      "snippet": {
+        "publishedAt": "2017-06-09T19:19:30.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "MOANA IN REAL LIFE 😍",
+        "description": "Previous Video (Father's Day Surprise): https://youtu.be/1hQlKe1S4PU\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JpRAo2Nrj-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JpRAo2Nrj-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JpRAo2Nrj-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JpRAo2Nrj-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JpRAo2Nrj-E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JpRAo2Nrj-E",
+        "videoPublishedAt": "2017-06-09T19:19:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/elKsRoIXc8gthq52nk9bWPNZl5Y\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLjFoUWxLZTFTNFBV",
+      "snippet": {
+        "publishedAt": "2017-06-07T16:00:34.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "MASSIVE FATHER'S DAY SURPRISE!!!",
+        "description": "Learn more about Dolby Vision here and grab yours today: http://bit.ly/2snJxcn\nFTC Disclosure: This video was sponsored by Dolby.\nPrevious Video (New Home?!): https://youtu.be/iDSNEVQyMP4\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hQlKe1S4PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hQlKe1S4PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hQlKe1S4PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1hQlKe1S4PU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1hQlKe1S4PU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1hQlKe1S4PU",
+        "videoPublishedAt": "2017-06-07T16:00:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/puzE46D_-tndC_97autcZGyR-MY\"",
+      "id": "VVVEZDBnSHMxRjlVMVN1dzZhSEdGSDVnLmlEU05FVlF5TVA0",
+      "snippet": {
+        "publishedAt": "2017-06-05T14:58:00.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "OUR KID'S NEW HOME?! 👀",
+        "description": "Check out my new article in Adweek re: diversity on YouTube: http://bit.ly/Top5kYTDiversityProblem\nPrevious Video (FIDGET SPINNERS!): https://youtu.be/3CaJyRIxodY\nJoin our Internet Family: http://tinyurl.com/OurInternetFamily\n#ApartFromYouOniTunes: http://bit.ly/ApartFromYouOniTunes\nApart From You on Spotify: http://bit.ly/ApartFromYouSpotify\nApart From You on GooglePlay: http://bit.ly/ApartFromYouGooglePlay\nShare our channel with friends! Click here: http://ctt.ec/WtGOF\nSUBSCRIBE to Britt's Channel: http://full.sc/15E1zTv\n\nEnd slate created by: https://twitter.com/Michael_Struble\n\n***FOLLOW US BELOW***\n\nAustin's Twitter: http://full.sc/RLD4RV \nAustin's Instagram: http://full.sc/19S6lBI\nBritt's Twitter: http://full.sc/TB0WpF \nBritt's Instagram: http://full.sc/1170K3x\nFacebook: http://full.sc/RLD6cv\n\nFor business inquiries, please email me: thenivenulls@gmail.com\n\nPlaylists to learn more about us!\n\nStand Up Comedy playlist: http://full.sc/19S5eSs\n#FiestaMovement playlist: http://full.sc/19S5mBe\nAsk A Null playlist: http://full.sc/13keKyK\nStory of Us Video: http://full.sc/13kexLT\nAudri's Birth Vlog: http://youtu.be/LMCS6bf1Wrk\nKailand's Birth Vlog: http://youtu.be/rCAkhXzrXGg\n\nWe're Kansas City based YouTube Personalities! We put out new videos every week! Be sure to SUBSCRIBE so that you are always notified when we put out a new video for you to laugh at! Also, be sure to follow us and interact with us through the links listed above!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDSNEVQyMP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDSNEVQyMP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDSNEVQyMP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iDSNEVQyMP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "playlistId": "UUDd0gHs1F9U1Suw6aHGFH5g",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iDSNEVQyMP4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iDSNEVQyMP4",
+        "videoPublishedAt": "2017-06-05T14:58:00.000Z"
+      }
+    }
+  ]
+}

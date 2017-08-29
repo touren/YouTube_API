@@ -1,0 +1,85 @@
+/**
+ * API response
+ */
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/-72D_YFD9LoY0zKGYbJxgCCxXlw\"",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8Ma8ggOVsbAtjmijFW-ZxvYDNYM\"",
+      "id": "4MBErpnf4OQ",
+      "snippet": {
+        "publishedAt": "2017-08-22T11:34:21.000Z",
+        "channelId": "UCDd0gHs1F9U1Suw6aHGFH5g",
+        "title": "MOM HACKS: Tips For Surviving Motherhood!!!",
+        "description": "In today's video, learn all about my go-to tips and tricks that help save time AND money! Shout out to Pamper's for sponsoring this video! Be sure to sign up for Pampers Rewards!\nPAMPERS REWARDS:\nhttps://app.adjust.com/wggm35 \n\n Enjoy and make sure you SUBSCRIBE to catch all the awesomeness! \nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4MBErpnf4OQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Britt's Space",
+        "tags": [
+          "mom hacks",
+          "tips for parenting",
+          "parenting tips",
+          "pampers",
+          "pampers rewards",
+          "surviving motherhood",
+          "baby tips",
+          "organizing tips",
+          "hacks for moms",
+          "motherhood vlog",
+          "mom vlogger",
+          "day in life vlog",
+          "tips for motherhood",
+          "mom tips",
+          "mommy hacks"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "MOM HACKS: Tips For Surviving Motherhood!!!",
+          "description": "In today's video, learn all about my go-to tips and tricks that help save time AND money! Shout out to Pamper's for sponsoring this video! Be sure to sign up for Pampers Rewards!\nPAMPERS REWARDS:\nhttps://app.adjust.com/wggm35 \n\n Enjoy and make sure you SUBSCRIBE to catch all the awesomeness! \nFOLLOW ME:\nTwitter: http://full.sc/TB0WpF \nInstagram: http://full.sc/1170K3x\n\n~Music~\nwww.bensound.com"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6564",
+        "likeCount": "884",
+        "dislikeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "112"
+      }
+    }
+  ]
+}

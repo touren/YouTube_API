@@ -1,0 +1,13 @@
+From: https://developers.google.com/youtube/v3/getting-started#quota
+
+Projects that enable the YouTube Data API have a default quota allocation of 1 million units per day, an amount sufficient for the overwhelming majority of our API users. Default quota is subject to change.
+
+Google calculates your quota usage by assigning a cost to each request.
+
+maxResults per request is [1, 50]
+
+Quota calculator:
+https://developers.google.com/youtube/v3/determine_quota_cost
+
+Check your quota on:
+https://console.developers.google.com/iam-admin/quotas?project=ludlow-dev&organizationId=478765210964
