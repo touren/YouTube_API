@@ -2,7 +2,7 @@ ACCESS_TOKEN=ya29.Glu2BDCf9KyezzFA-VRevk5zlMK7CcxAK6YfrgltdJ2Ccqmu83_whK7i54OZhH
 YOUR_API_KEY=AIzaSyAMkHWnLNAvpKte-XA9nh3RheX7lFn_dNM
 
 ## Get My Videos list.
-## Result: file:///Users/Tao/Work/ElevenDigital/video_list.txt
+## Result: ./video_list.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "type=video&forMine=true&maxResults=25&part=snippet" \
            https://www.googleapis.com/youtube/v3/search/
@@ -10,45 +10,45 @@ curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
 ## Get video info by ID. 
 ## Only works on googel playground and don't need access_token.
 ## See: https://developers.google.com/youtube/v3/docs/videos/list
-## Result: file:///Users/Tao/Work/ElevenDigital/videos.txt
+## Result: ./videos.txt
 curl -vvv -i -G -d "id=QnrWLbJm9_8&part=snippet%2CcontentDetails%2Cstatistics&key=${YOUR_API_KEY}" \
            https://www.googleapis.com/youtube/v3/videos
 
 ## Get My Channels.
 ## Can get the # of subscribers.
-## Result: file:///Users/Tao/Work/ElevenDigital/channel.txt
+## Result: ./channel.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "mine=true&part=snippet%2CcontentDetails%2Cstatistics%2Clocalizations%2Cstatus%2CbrandingSettings%2CauditDetails" \
            https://www.googleapis.com/youtube/v3/channels/
 
 
 ## Query reports for views by day, my owned channel.
-## Result: file:///Users/Tao/Work/ElevenDigital/query_report_view_by_day.txt
+## Result: ./query_report_view_by_day.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "ids=channel==MINE&start-date=2017-07-01&end-date=2017-08-01&metrics=views&dimensions=day" \
             https://www.googleapis.com/youtube/analytics/v1/reports
 
 
 ## Query reports for views by day, my owned channel.
-## Result: file:///Users/Tao/Work/ElevenDigital/query_report_view_duration_by_day_product.txt
+## Result: ./query_report_view_duration_by_day_product.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "ids=channel==MINE&start-date=2017-07-01&end-date=2017-08-01&metrics=views,averageViewDuration&dimensions=day,youtubeProduct" \
             https://www.googleapis.com/youtube/analytics/v1/reports
-## Result: file:///Users/Tao/Work/ElevenDigital/query_report_views_watched_subscribers_gain_lost.txt
+## Result: ./query_report_views_watched_subscribers_gain_lost.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "ids=channel==MINE&start-date=2015-01-01&end-date=2017-09-01&metrics=views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained,subscribersLost&dimensions=month" \
             https://www.googleapis.com/youtube/analytics/v1/reports
 
 
 ## Query reports for viewer percentage by ageGroup & gender.
-## Result: file:///Users/Tao/Work/ElevenDigital/query_report_viewerPercentage_by_ageGroup_gender.txt
+## Result: ./query_report_viewerPercentage_by_ageGroup_gender.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "ids=channel==MINE&start-date=2017-07-01&end-date=2017-08-01&metrics=viewerPercentage&dimensions=ageGroup,gender" \
             https://www.googleapis.com/youtube/analytics/v1/reports
 
 
 ## Query channel sections:
-## Result: file:///Users/Tao/Work/ElevenDigital/channel_sections.txt
+## Result: ./channel_sections.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "mine=true&part=snippet%2CcontentDetails" \
            https://www.googleapis.com/youtube/v3/channelSections/
@@ -58,31 +58,31 @@ curl -vvv -i -G -d "channelId=UCDd0gHs1F9U1Suw6aHGFH5g&part=snippet%2CcontentDet
 
 
 ## Get PlaylistItems by playlist_id
-## Result: file:///Users/Tao/Work/ElevenDigital/playlist_items.txt
+## Result: ./playlist_items.txt
 curl -vvv -i -G -d "playlistId=UUDd0gHs1F9U1Suw6aHGFH5g&maxResults=25&part=snippet%2CcontentDetails&key=${YOUR_API_KEY}" \
               https://www.googleapis.com/youtube/v3/playlistItems
 
 
 ## Get comment threads by video.id
-## Result: file:///Users/Tao/Work/ElevenDigital/comment_threads.txt
+## Result: ./comment_threads.txt
 curl -vvv -i -G -d "videoId=lTCZMFWqWPQ&part=snippet%2Creplies&key=${YOUR_API_KEY}" \
               https://www.googleapis.com/youtube/v3/commentThreads
 
 
 ## Get comment threads by channel.id
-## Result: file:///## Result: file:///Users/Tao/Work/ElevenDigital/comment_threads.txt
+## Result: ./comment_threads.txt
 curl -vvv -i -G -d "channelId=UCDd0gHs1F9U1Suw6aHGFH5g&part=snippet%2Creplies&key=${YOUR_API_KEY}" \
               https://www.googleapis.com/youtube/v3/commentThreads/
 
 
 ## Get video catagories by regionCode=US
-## Result: file:///Users/Tao/Work/ElevenDigital/video_categories.txt
+## Result: ./video_categories.txt
 curl -vvv -i -G -d "regionCode=US&part=snippet&key=${YOUR_API_KEY}" \
               https://www.googleapis.com/youtube/v3/videoCategories
 
 
 ## Get all my subscribers by channel
-## Result: file:///Users/Tao/Work/ElevenDigital/my_subscribers.txt
+## Result: ./my_subscribers.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
                 -d "mySubscribers=true&part=subscriberSnippet" \
               https://www.googleapis.com/youtube/v3/subscriptions
@@ -93,7 +93,7 @@ curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
 
 
 ## Query reports for audience retention.
-## Result: file:///Users/Tao/Work/ElevenDigital/query_report_audience_watch_ratio.txt
+## Result: ./query_report_audience_watch_ratio.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
            -d "ids=channel==MINE&filters=video==JqJ3QVsjyoY&start-date=2017-08-01&end-date=2017-08-28&metrics=audienceWatchRatio&dimensions=elapsedVideoTimeRatio" \
             https://www.googleapis.com/youtube/analytics/v1/reports
