@@ -59,8 +59,6 @@ Below is the demo gif:
 
 ## Reference
 * [How to import JSON data into Google Spreadsheets in less than 5 minutes]
-* Script: [ImportJSON]
-* Script: [ImportHeaderRowsJSON Description]
 
 [How to import JSON data into Google Spreadsheets in less than 5 minutes]: https://medium.com/@paulgambill/how-to-import-json-data-into-google-spreadsheets-in-less-than-5-minutes-a3fede1a014a
 
