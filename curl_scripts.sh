@@ -36,7 +36,7 @@ curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
             https://www.googleapis.com/youtube/analytics/v1/reports
 ## Result: ./query_report_views_watched_subscribers_gain_lost.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
-           -d "ids=channel==MINE&start-date=2015-01-01&end-date=2017-09-01&metrics=views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained,subscribersLost&dimensions=month" \
+           -d "ids=channel==MINE&start-date=2015-01-01&end-date=2017-09-01&metrics=views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained,subscribersLost&dimensions=day" \
             https://www.googleapis.com/youtube/analytics/v1/reports
 
 
@@ -95,7 +95,11 @@ curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
 ## Query reports for audience retention.
 ## Result: ./query_report_audience_watch_ratio.txt
 curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
-           -d "ids=channel==MINE&filters=video==JqJ3QVsjyoY&start-date=2017-08-01&end-date=2017-08-28&metrics=audienceWatchRatio&dimensions=elapsedVideoTimeRatio" \
+           -d "ids=channel==MINE&filters=video==TA0su5jk-wk&start-date=2015-01-01&end-date=2017-08-30&metrics=audienceWatchRatio&dimensions=elapsedVideoTimeRatio" \
+            https://www.googleapis.com/youtube/analytics/v1/reports
+
+curl -vvv -i -G -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+           -d "ids=channel==MINE&filters=video==TA0su5jk-wk&start-date=2015-01-01&end-date=2017-08-30&metrics=relativeRetentionPerformance&dimensions=elapsedVideoTimeRatio" \
             https://www.googleapis.com/youtube/analytics/v1/reports
 
 
