@@ -139,7 +139,11 @@ function ImportJSON(url, query, options) {
  * @return a two-dimensional array containing the data, with the first row containing headers
  **/
 function ImportHeaderRowJSON(url) {
-  var options = "noTruncate";
+  if (options && options.length > 0) {
+    options += ",noTruncate";
+  } else {
+    options = "noTruncate";
+  }
   var header = ImportJSONAdvanced(url, '/columnHeaders', options, includeXPath_, defaultTransform_);
   var row = ImportJSONAdvanced(url, '/row', options, includeXPath_, defaultTransform_);
   var rowData = row[1][0].split(",");
